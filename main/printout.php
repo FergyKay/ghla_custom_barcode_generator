@@ -7,8 +7,11 @@ if (!isset($_SESSION['user'])) {
 if (isset($_GET['rid'])) {
     $rid = $_GET['rid'];
     $class = $_GET['c'];
+    $key = $_GET['key'];
     $as = $_GET['as'];
-    $ae = $_GET['ae']; ?>
+    $ae = $_GET['ae'];
+    $s = "UPDATE record SET print_status = 'green' WHERE record_isbn = '$rid' AND c_key = '$key'";
+    $q = $connection->query($s);?>
     <html>
     <head>
         <link rel="stylesheet" type="text/css" href="../semantic/semantic.min.css">

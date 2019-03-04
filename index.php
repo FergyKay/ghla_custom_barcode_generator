@@ -85,7 +85,6 @@ if (isset($_POST['login'])) {
             fields: {
                 user: 'empty',
                 pass: 'empty',
-
             }
         })
     ;

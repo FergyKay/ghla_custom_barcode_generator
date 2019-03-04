@@ -18,7 +18,7 @@ if (!isset($_SESSION['user'])) {
         while ($i <= $count) {
             file_put_contents("../barcodes/$rid@$x-$last_c.png", $generator->getBarcode($x, $generator::TYPE_EAN_13, 2, 100));
             $x = $x + 1;
-            $last_c = $last_c+1;
+            $last_c = $last_c + 1;
             $i++;
         }
 

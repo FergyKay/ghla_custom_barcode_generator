@@ -50,7 +50,7 @@ $value = $results[0];
     ?>
     <div id="newEntry">
         <h3 style="color: white">Add a record</h3>
-        <form action="../core/newRecord.php" method="post">
+        <form class="ui form" action="../core/newRecord.php" method="post">
             <div class="ui input ">
                 <input type="text" id="title" placeholder="Record Title" name="title">
             </div>
@@ -99,13 +99,13 @@ $value = $results[0];
                 $results = $connection->query($stmt);
                 while ($record = $results->fetch_assoc()) {
                     echo '<form action="printout.php" method="get">';
-                    echo "<tr>";
+                    echo "<tr style='color:".$record['print_status']."'>";
                     echo "<td>" . $record['record_isbn'] . "</td>";
                     echo "<td>" . $record['record_name'] . "</td>";
                     echo "<td>" . $record['class_number'] . "</td>";
                     echo "<td>" . $record['quantity'] . "</td>";
                     echo "<td>" . sprintf("%09d", $record['accession_start']) . " - " . sprintf("%09d", $record['accession_stop']) . "</td>";
-                    echo "<td><a class=\"ui button \" href='printout?rid=" . $record['record_isbn'] . "&as=" . $record['accession_start']. "&ae=" . $record['accession_stop']. "&c=" . $record['class_number'] . "'><i class=\"fas fa-print\"></i></a>";
+                    echo "<td><a class=\"ui button \" href='printout?rid=" . $record['record_isbn'] . "&as=" . $record['accession_start'] . "&ae=" . $record['accession_stop'] . "&c=" . $record['class_number'] . "&key=".$record['c_key'] ."'><i class=\"fas fa-print\"></i></a>";
                     echo "</tr>";
                     echo '</form>';
                 }
@@ -127,7 +127,6 @@ $value = $results[0];
                 title: 'empty',
                 quantity: 'empty',
                 class: 'empty'
-
             }
         })
     ;
