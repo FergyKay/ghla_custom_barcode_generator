@@ -1,12 +1,838 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/main/index.php" line="81" />
+    <bookmark url="file://$PROJECT_DIR$/main/index.php" line="110" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a761d7f-e759-4c60-a044-d12fbb6cf64e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/0330331175@2812-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/0333669347@2267-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/139781509868452@2391-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9731437727463@2845-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9731437727463@2846-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9731437727463@2847-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9731437727463@2848-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780006514008@2253-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007174294@2195-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007310388@2548-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007441631@2400-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007454242@2495-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007467501@2481-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007467518@2925-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007468577@2878-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007468577@2879-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007475971@2480-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007476725@2248-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007486229@3000-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007494682@2963-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007494682@2964-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007494682@2965-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007494682@2966-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007501533@2551-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007501892@2485-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007518401@2438-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007532902@2346-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007540037@2650-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007549481@2364-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007560707@2877-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007564019@2913-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007582471@2870-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780007597390@2198-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008104771@2354-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008104771@2450-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008105983@2501-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008108427@2428-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008116330@2941-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008123208@2336-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008123208@2469-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008131456@2422-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008132941@2266-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008135287@2353-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008135287@2451-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008137380@2314-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008147402@2540-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008150792@2936-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008155971@2188-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008159047@2252-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008165536@2345-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008173067@2899-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008180034@2999-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008189808@2931-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008190736@2441-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008200459@2464-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008201258@2425-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008202095@2595-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008203931@2946-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008204587@2880-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008209919@2328-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008212193@2194-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008216955@2268-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008217136@2486-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008219154@2790-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008220099@2849-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008223519@2192-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008223519@2444-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008225605@2918-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008226541@2911-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008228033@2951-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008229139@2359-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008235635@2872-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008235635@2921-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008236694@2324-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008237530@2402-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008241834@2934-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008243838@2871-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008245009@2427-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008248208@2361-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008249038@2344-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008253356@2334-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008256708@2327-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008256791@2398-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008256791@2499-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008257088@2516-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008257651@2997-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008259914@2900-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008262099@2403-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008263195@2502-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008263348@2881-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008265229@2998-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008265236@2347-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008265236@2955-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008268848@2916-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008275648@2648-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008281809@2320-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008283001@2914-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008283926@2250-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008286644@2355-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008287313@2193-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008287689@2186-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008293154@2876-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008295066@2935-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008296438@2365-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008296438@2445-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008296520@2874-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008296520@2894-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008296520@2942-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008298159@2609-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008300142@2468-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008300975@2265-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008303693@2197-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008303693@2474-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008304072@2915-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008324209@2349-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780008324209@2460-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780062425539@2331-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780091956141@2317-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780099578567@2497-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780099594321@2421-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780123946263@2479-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780123946263@2538-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780123946263@2539-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780140282450@2423-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780230769854@2902-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780241325162@2922-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780241325162@2933-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780241977262@2558-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780241981399@2439-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263066838@2937-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263066869@2943-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263067019@2597-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263070651@2596-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263070897@2649-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263072754@2316-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263074666@2466-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263074765@2560-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263077766@2251-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263083224@2947-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263253382@2337-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263253382@2471-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263264937@2363-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263264937@2447-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263265620@2959-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263266542@2537-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263917604@2339-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263917604@2473-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263924756@2919-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263924756@2920-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263927689@2340-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263928181@2360-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263928181@2446-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263928235@2426-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263934052@2917-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780263934502@2412-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2791-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2792-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2793-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2794-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2795-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2796-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2797-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2798-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2799-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2800-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2801-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2802-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2803-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2804-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2805-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2806-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2807-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2808-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2809-19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2810-20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780273722977@2811-21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316120081@2898-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316268721@2873-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316281836@2559-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316306249@2478-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316344326@2608-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316377539@2358-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316379342@2601-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316381000@2417-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316385917@2949-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316404358@2910-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316489317@2214-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316520256@2875-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316522182@2357-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316522182@2448-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316526999@2652-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316555562@2215-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780316555678@2399-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323063616@2454-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323063616@2624-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323063616@2625-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323063616@2626-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323063616@2627-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323063616@2628-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323063616@2629-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323063616@2630-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323063616@2631-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323063616@2632-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323085182@2986-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323085182@2987-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323085182@2988-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323085182@2989-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323085182@2990-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323087872@2903-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323087872@2904-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323087872@2905-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323087872@2906-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323087872@2907-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2689-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2690-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2691-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2692-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2693-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2694-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2695-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2696-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2697-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2698-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2699-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2700-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2701-19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2702-20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2703-21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2704-22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2705-23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2706-24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2707-25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2708-26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2709-27.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2710-28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2711-29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2712-30.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2713-31.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2714-32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2715-33.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323088541@2716-34.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323089029@2462-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323089029@2836-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323089029@2837-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323089029@2838-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323089029@2839-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323089029@2840-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323089029@2841-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323089029@2842-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323089029@2843-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323089029@2844-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323100069@2470-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323100069@2612-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323100069@2613-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323100069@2614-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323100069@2615-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323100069@2616-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323100069@2617-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323100069@2618-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323100069@2619-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323113175@2368-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323113175@2369-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323113175@2370-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323113175@2371-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323113175@2372-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323187657@2967-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323187657@2968-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323187657@2969-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323187657@2970-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323187657@2971-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323187657@2972-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323187657@2973-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323187657@2974-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323187657@2975-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323240864@2604-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323240864@2605-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323240864@2606-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323244282@2408-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323244282@2409-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323244282@2410-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323316712@2476-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323316712@2634-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323316712@2635-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323316712@2636-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323316712@2637-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323316712@2638-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323316712@2639-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323316712@2640-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323355155@2556-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323355155@2557-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323355155@2598-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323392532@2926-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323392532@2927-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323392532@2928-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323392532@2929-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323392532@2930-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323400619@2641-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323524810@2938-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323524810@2939-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323524834@2976-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780323524834@2977-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780330518642@2524-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780345549570@2348-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349007885@2909-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349122700@2924-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349134543@2515-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349141022@2738-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349142111@2196-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349142234@2953-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349406565@2350-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349406565@2453-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349409399@2406-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349409863@2249-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349413235@2411-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349413907@2607-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349414140@2547-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349414584@2957-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349414683@3001-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349416625@2960-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349416977@2404-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780349417868@2739-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780356500942@2323-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780356502519@2940-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780356502779@2440-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780356504179@2830-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780356504612@2908-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780374114459@2187-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780374114459@2352-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780374229764@2343-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780374281137@2342-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780374535902@2319-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780374536077@2185-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780415518093@2561-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780415518093@2562-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780415518093@2563-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780415518093@2564-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780415518093@2565-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780415518093@2566-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780415518093@2567-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780415518093@2568-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780415518093@2737-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2189-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2190-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2191-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2413-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2414-19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2882-20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2883-21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2884-22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2885-23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2886-24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2887-25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2888-26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2889-27.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2890-28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2891-29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2892-30.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780470975466@2893-31.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780552166683@2642-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780552166683@2952-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780571313174@2338-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780571313174@2472-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780571316311@2948-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780571316700@2325-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780571321766@2932-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780571327126@2651-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780593075296@2901-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780593076217@2602-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780718181079@2956-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780718183752@2341-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780857052742@2603-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780857056092@2415-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780857867964@2996-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2813-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2814-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2815-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2816-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2817-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2818-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2819-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2820-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2821-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2822-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2823-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2824-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2825-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2826-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2827-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2896-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2897-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9780972872690@2944-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2850-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2851-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2852-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2853-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2854-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2855-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2856-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2857-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2858-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2859-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2860-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2861-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2862-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2863-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2864-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2865-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781101884089@2866-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781107471213@2498-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781107629554@2995-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/978110841815@2457-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781118648094@2487-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781118648094@2488-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781118648094@2489-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781118648094@2490-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781118648094@2491-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781118648094@2492-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781118648094@2493-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781118648094@2494-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781119347620@2392-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781119347620@2393-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781119347620@2394-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781119347620@2395-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781119347620@2396-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781119347620@2542-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781119347620@2543-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781119347620@2544-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781119347620@2545-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781119347620@2546-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781250094650@2356-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781250094650@2449-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2269-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2270-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2271-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2272-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2273-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2274-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2275-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2276-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2277-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2278-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2279-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2280-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2281-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2282-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2283-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2284-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2285-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2286-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2287-19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2288-20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2289-21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2290-22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2291-23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2292-24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2293-25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2294-26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2295-27.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2296-28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2297-29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2298-30.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2299-31.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2300-32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2301-33.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2302-34.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2303-35.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2304-36.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2305-37.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2306-38.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2307-39.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2308-40.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2309-41.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2310-42.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2311-43.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2312-44.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2313-45.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2332-46.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292000800@2333-47.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2216-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2217-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2218-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2219-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2220-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2221-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2222-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2223-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2224-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2225-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2226-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2227-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2228-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2229-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2230-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2231-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2232-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2233-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2234-19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2235-20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2236-21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2237-22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2238-23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2239-24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2240-25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2241-26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2242-27.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2243-28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2244-29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2245-30.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2246-31.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292004242@2247-32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2569-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2570-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2571-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2572-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2573-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2574-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2575-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2576-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2577-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2578-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2579-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2580-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2581-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2582-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2583-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2584-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2585-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2586-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2587-19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2588-20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2589-21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2590-22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2591-23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2592-24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2593-25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781292176109@2594-26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405920834@2335-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2653-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2654-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2655-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2656-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2657-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2658-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2659-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2660-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2661-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2662-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2663-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2664-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2665-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2666-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2667-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2668-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2669-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2670-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2671-19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2672-20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2673-21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781405935067@2895-22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781409174110@2954-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2199-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2200-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2201-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2202-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2203-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2204-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2205-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2206-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2207-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2208-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2209-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2210-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2211-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412931038@2212-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412974196@2549-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412974196@2550-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412981088@2620-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412981088@2621-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412981088@2622-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412981088@2623-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412981088@2717-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412981088@2718-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412981088@2719-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412981088@2720-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412981088@2945-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412990899@2477-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412998611@2740-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781412998611@2741-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781437727463@2643-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781437727463@2644-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781437727463@2645-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781437727463@2646-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781444144871@2475-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781444776058@2443-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781444786712@2407-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781444836745@2962-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781447227533@2483-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781447252191@2482-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781447288602@2961-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781447298540@2894-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2373-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2374-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2375-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2376-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2377-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2378-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2379-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2380-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2381-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2382-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2383-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2384-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2385-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2386-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2387-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2388-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2389-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2390-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2424-19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2526-20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2527-21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2528-22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2529-23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2530-24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2531-25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2532-26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2533-27.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2534-28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2535-29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455703357@2536-30.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455704118@2991-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455704118@2992-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455704118@2993-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455725328@2610-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455725328@2611-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455725328@2828-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455725328@2829-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455728480@2429-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455728480@2430-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455728480@2431-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455728480@2432-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455728480@2433-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455728480@2434-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455728480@2435-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455728480@2436-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455728480@2437-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753581@2254-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753581@2255-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753581@2256-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753581@2257-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753581@2258-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753581@2259-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753581@2260-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753581@2261-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753581@2262-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753581@2263-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753734@2552-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753734@2553-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753734@2554-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455753734@2555-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2465-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2503-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2504-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2505-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2506-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2507-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2508-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2509-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2510-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2511-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2512-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2513-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2514-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2517-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2518-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2519-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2520-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2521-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2522-19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781455774593@2523-20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781465466266@2525-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781471843167@2459-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781472126368@2484-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781472152930@2366-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781472221377@2463-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781472236838@2958-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781472250193@2362-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781473642140@2599-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781473678392@2326-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781474604697@2367-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781474604697@2458-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781506362946@2321-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781506362946@2322-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781509827510@2950-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781509829873@2442-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781509831579@2541-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781509840786@2416-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781509848928@2318-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781509850808@2264-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781509863594@2315-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781509868452@2455-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781510429451@2978-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781510429451@2979-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781510429451@2980-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781510429451@2981-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781510429451@2982-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781510429451@2983-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781510429451@2984-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781510429451@2985-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781780290164@2418-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781780893570@2329-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781780895277@2600-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781782064305@2500-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781782398622@2330-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781784706111@2419-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781784740467@2912-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781784742195@2923-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781784755003@2420-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781786893789@2647-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781792067948@2213-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781844883660@2994-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781847562432@2467-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781848455054@2633-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781848455122@2397-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781848455122@2456-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781848457164@2401-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781848457478@2351-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781848457478@2452-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2674-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2675-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2676-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2677-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2678-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2679-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2680-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2681-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2682-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2683-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2684-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2685-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2686-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2687-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670229@2688-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2721-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2722-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2723-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2724-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2725-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2726-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2727-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2728-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2729-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2730-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2731-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2732-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2733-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2734-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2735-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670281@2736-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2742-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2743-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2744-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2745-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2746-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2747-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2748-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2749-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2750-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2751-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2752-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2753-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2754-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2755-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2756-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2757-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2758-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2759-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2760-19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2761-20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2762-21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2763-22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2764-23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2765-24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2766-25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2767-26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2768-27.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2769-28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2770-29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2771-30.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2772-31.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2773-32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2774-33.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2775-34.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2776-35.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2777-36.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2778-37.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2779-38.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2780-39.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2781-40.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2782-41.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2783-42.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2784-43.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2785-44.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2786-45.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2787-46.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2788-47.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781908670366@2789-48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781937242169@2867-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781937242169@2868-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9781937242169@2869-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/978263927689@2461-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/978408870792@2405-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/978718189143@2831-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/978718189143@2832-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/978718189143@2833-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/978718189143@2834-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/978718189143@2835-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barcodes/9871107036345@2496-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/core/newSupRecord.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/main/add.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/main/edit.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/main/printed.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/main/regen.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/main/submit_editted.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/q.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/sdfgter" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/core/newRecord.php" afterPath="$PROJECT_DIR$/core/newRecord.php" />
       <change beforePath="$PROJECT_DIR$/main/gen.php" afterPath="$PROJECT_DIR$/main/gen.php" />
       <change beforePath="$PROJECT_DIR$/main/index.php" afterPath="$PROJECT_DIR$/main/index.php" />
       <change beforePath="$PROJECT_DIR$/main/printout.php" afterPath="$PROJECT_DIR$/main/printout.php" />
@@ -34,116 +860,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="95" column="23" lean-forward="true" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
-              <folding>
-                <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1551697743347" expanded="true" signature="168:207" ph="select uid f... user" />
-                <marker date="1551697743347" expanded="true" signature="393:420" ph="select count... record" />
-                <marker date="1551697743347" expanded="true" signature="1631:1773" ph="..." />
-                <marker date="1551697743347" expanded="false" signature="1703:1713" ph="..." />
-                <marker date="1551697743347" expanded="true" signature="1714:1762" ph="..." />
-                <marker date="1551697743347" expanded="true" signature="3893:4042" ph="Select * fro... record" />
-                <marker date="1551697743347" expanded="true" signature="4266:4274" ph="..." />
-                <marker date="1551697743347" expanded="true" signature="4745:5051" ph="..." />
-                <marker date="1551697743347" expanded="true" signature="5385:5393" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="88" column="10" lean-forward="false" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
-              <folding>
-                <marker date="1551691058087" expanded="true" signature="279:320" ph="select pword... user" />
-                <marker date="1551691058087" expanded="true" signature="1973:2163" ph="..." />
-                <marker date="1551691058087" expanded="true" signature="2021:2136" ph="..." />
-                <marker date="1551691058087" expanded="false" signature="2061:2080" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="newRecord.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/newRecord.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-              <folding>
-                <marker date="1551431132000" expanded="true" signature="456:683" ph="SELECT SUM((... acession" />
-                <marker date="1551431132000" expanded="true" signature="888:1052" ph="INSERT INTO record... " />
-                <marker date="1551431132000" expanded="true" signature="1138:1222" ph="select acces... accession_control" />
-                <marker date="1551431132000" expanded="true" signature="1434:1560" ph="INSERT INTO acession... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gen.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/gen.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-              <folding>
-                <marker date="1551696859213" expanded="true" signature="660:727" ph="INSERT INTO accession_control... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="printout.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/printout.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-              <folding>
-                <element signature="e#2257#2276#0#HTML" expanded="true" />
-                <element signature="e#2346#2379#0#HTML" expanded="true" />
-                <element signature="e#3685#3705#0#HTML" expanded="true" />
-                <marker date="1551697357472" expanded="true" signature="266:352" ph="UPDATE record... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sdfgter" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdfgter">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1810">
-              <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -171,12 +888,19 @@
         <option value="$PROJECT_DIR$/logoff.php" />
         <option value="$PROJECT_DIR$/libs/main.js" />
         <option value="$PROJECT_DIR$/main/style.css" />
-        <option value="$PROJECT_DIR$/core/newRecord.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/main/gen.php" />
         <option value="$PROJECT_DIR$/sdfgter" />
-        <option value="$PROJECT_DIR$/main/printout.php" />
+        <option value="$PROJECT_DIR$/q.php" />
+        <option value="$PROJECT_DIR$/main/add.php" />
+        <option value="$PROJECT_DIR$/core/newSupRecord.php" />
+        <option value="$PROJECT_DIR$/core/newRecord.php" />
+        <option value="$PROJECT_DIR$/main/edit.php" />
+        <option value="$PROJECT_DIR$/main/submit_editted.php" />
+        <option value="$PROJECT_DIR$/main/gen.php" />
+        <option value="$PROJECT_DIR$/main/printed.php" />
         <option value="$PROJECT_DIR$/main/index.php" />
+        <option value="$PROJECT_DIR$/main/printout.php" />
+        <option value="$PROJECT_DIR$/main/regen.php" />
       </list>
     </option>
   </component>
@@ -213,8 +937,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,15 +944,12 @@
               <item name="AccessionCodeGen" type="b2602c69:ProjectViewProjectNode" />
               <item name="AccessionCodeGen" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="AccessionCodeGen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AccessionCodeGen" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,7 +1008,9 @@
       <workItem from="1551445214778" duration="1993000" />
       <workItem from="1551448210463" duration="11476000" />
       <workItem from="1551463220594" duration="565000" />
-      <workItem from="1551690935455" duration="3496000" />
+      <workItem from="1551690935455" duration="3763000" />
+      <workItem from="1551708152748" duration="560000" />
+      <workItem from="1551714203261" duration="35131000" />
     </task>
     <task id="LOCAL-00001" summary="printer margins changed">
       <created>1548165946528</created>
@@ -361,16 +1082,30 @@
       <option name="project" value="LOCAL" />
       <updated>1550561894168</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Current Updates..">
+      <created>1551701460086</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1551701460086</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Current Updates..">
+      <created>1551701641411</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1551701641411</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128361000" />
+    <option name="totallyTimeSpent" value="164319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47655067" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18835099" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -450,7 +1185,8 @@
     <MESSAGE value="prepared for robot" />
     <MESSAGE value="implemented search functionality" />
     <MESSAGE value="Login Error changed from JS to HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Login Error changed from JS to HTML" />
+    <MESSAGE value="Current Updates.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Current Updates.." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -459,69 +1195,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <marker date="1551691058087" expanded="true" signature="279:320" ph="select pword... user" />
-            <marker date="1551691058087" expanded="true" signature="1973:2163" ph="..." />
-            <marker date="1551691058087" expanded="true" signature="2021:2136" ph="..." />
-            <marker date="1551691058087" expanded="false" signature="2061:2080" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/printout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1551697743347" expanded="true" signature="168:207" ph="select uid f... user" />
-            <marker date="1551697743347" expanded="true" signature="393:420" ph="select count... record" />
-            <marker date="1551697743347" expanded="true" signature="1631:1773" ph="..." />
-            <marker date="1551697743347" expanded="false" signature="1703:1713" ph="..." />
-            <marker date="1551697743347" expanded="true" signature="1714:1762" ph="..." />
-            <marker date="1551697743347" expanded="true" signature="3893:4042" ph="Select * fro... record" />
-            <marker date="1551697743347" expanded="true" signature="4266:4274" ph="..." />
-            <marker date="1551697743347" expanded="true" signature="4745:5051" ph="..." />
-            <marker date="1551697743347" expanded="true" signature="5385:5393" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap.css" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="1105" column="20" lean-forward="false" selection-start-line="1105" selection-start-column="20" selection-end-line="1105" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/dbcon.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logoff.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/1.png" />
-    <entry file="file://$PROJECT_DIR$/main/2.png" />
     <entry file="file://$PROJECT_DIR$/main/3.png" />
     <entry file="file://$PROJECT_DIR$/main/4.png" />
     <entry file="file://$PROJECT_DIR$/main/5.png" />
@@ -568,14 +1241,6 @@
     <entry file="file://$PROJECT_DIR$/barcodes/@7-1.png" />
     <entry file="file://$PROJECT_DIR$/barcodes/@8-2.png" />
     <entry file="file://$PROJECT_DIR$/barcodes/@9-3.png" />
-    <entry file="file://$PROJECT_DIR$/libs/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -592,9 +1257,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/barcodes/9.78142E 12@374-1.png" />
+    <entry file="file://$PROJECT_DIR$/barcodes/9780007179732@778-2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barcodes/9780007175888@178-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
+        <state relative-caret-position="1496">
           <caret line="88" column="10" lean-forward="false" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
           <folding>
             <marker date="1551691058087" expanded="true" signature="279:320" ph="select pword... user" />
@@ -605,65 +1288,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/newRecord.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <marker date="1551431132000" expanded="true" signature="456:683" ph="SELECT SUM((... acession" />
-            <marker date="1551431132000" expanded="true" signature="888:1052" ph="INSERT INTO record... " />
-            <marker date="1551431132000" expanded="true" signature="1138:1222" ph="select acces... accession_control" />
-            <marker date="1551431132000" expanded="true" signature="1434:1560" ph="INSERT INTO acession... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/gen.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <marker date="1551696859213" expanded="true" signature="660:727" ph="INSERT INTO accession_control... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sdfgter">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1810">
+        <state relative-caret-position="535">
           <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/libs/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/newSupRecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <marker date="1551804385800" expanded="true" signature="360:587" ph="SELECT SUM((... acession" />
+            <marker date="1551804385800" expanded="true" signature="727:892" ph="INSERT INTO record... " />
+            <marker date="1551804385800" expanded="true" signature="978:1062" ph="select acces... accession_control" />
+            <marker date="1551804385800" expanded="true" signature="1274:1400" ph="INSERT INTO acession... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="49" selection-start-column="11" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <marker date="1551804385878" expanded="true" signature="168:207" ph="select uid f... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/printed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1551950053574" expanded="true" signature="168:227" ph="UPDATE record... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/newRecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="48" />
+          <folding>
+            <marker date="1551804523812" expanded="true" signature="456:683" ph="SELECT SUM((... acession" />
+            <marker date="1551804523812" expanded="true" signature="950:1114" ph="INSERT INTO record... " />
+            <marker date="1551804523812" expanded="true" signature="1208:1292" ph="select acces... accession_control" />
+            <marker date="1551804523812" expanded="true" signature="1524:1650" ph="INSERT INTO acession... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main/printout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="357">
+          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/gen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="59" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="59" />
           <folding>
-            <element signature="e#2257#2276#0#HTML" expanded="true" />
-            <element signature="e#2346#2379#0#HTML" expanded="true" />
-            <element signature="e#3685#3705#0#HTML" expanded="true" />
-            <marker date="1551697357472" expanded="true" signature="266:352" ph="UPDATE record... " />
+            <marker date="1551810533854" expanded="true" signature="660:727" ph="INSERT INTO accession_control... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="95" column="23" lean-forward="true" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
+        <state relative-caret-position="170">
+          <caret line="139" column="245" lean-forward="false" selection-start-line="139" selection-start-column="64" selection-end-line="139" selection-end-column="245" />
           <folding>
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1551697743347" expanded="true" signature="168:207" ph="select uid f... user" />
-            <marker date="1551697743347" expanded="true" signature="393:420" ph="select count... record" />
-            <marker date="1551697743347" expanded="true" signature="1631:1773" ph="..." />
-            <marker date="1551697743347" expanded="false" signature="1703:1713" ph="..." />
-            <marker date="1551697743347" expanded="true" signature="1714:1762" ph="..." />
-            <marker date="1551697743347" expanded="true" signature="3893:4042" ph="Select * fro... record" />
-            <marker date="1551697743347" expanded="true" signature="4266:4274" ph="..." />
-            <marker date="1551697743347" expanded="true" signature="4745:5051" ph="..." />
-            <marker date="1551697743347" expanded="true" signature="5385:5393" ph="..." />
+            <marker date="1551950299452" expanded="true" signature="168:207" ph="select uid f... user" />
+            <marker date="1551950299452" expanded="true" signature="393:420" ph="select count... record" />
+            <marker date="1551950299452" expanded="true" signature="2914:3331" ph="..." />
+            <marker date="1551950299452" expanded="true" signature="2986:3065" ph="..." />
+            <marker date="1551950299452" expanded="true" signature="3095:3316" ph="..." />
+            <marker date="1551950299452" expanded="true" signature="3461:3600" ph="..." />
+            <marker date="1551950299452" expanded="true" signature="3533:3585" ph="..." />
+            <marker date="1551950299452" expanded="true" signature="3724:3864" ph="..." />
+            <marker date="1551950299452" expanded="true" signature="3796:3849" ph="..." />
+            <marker date="1551950299452" expanded="true" signature="3911:3935" ph="..." />
+            <marker date="1551950299452" expanded="true" signature="5276:5425" ph="Select * fro... record" />
+            <marker date="1551950299452" expanded="true" signature="6702:6721" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/regen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <marker date="1551952844525" expanded="true" signature="421:627" ph="SELECT sum(a... acession" />
+            <marker date="1551952844525" expanded="true" signature="421:806" ph="SELECT sum(a... acession" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/submit_editted.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="49" column="39" lean-forward="false" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+          <folding>
+            <marker date="1551810487107" expanded="true" signature="168:207" ph="select uid f... user" />
+            <marker date="1551810487107" expanded="true" signature="517:623" ph="UPDATE record... " />
+            <marker date="1551810487107" expanded="true" signature="703:763" ph="UPDATE acession... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <marker date="1551807645088" expanded="true" signature="168:207" ph="select uid f... user" />
           </folding>
         </state>
       </provider>

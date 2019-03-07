@@ -10,8 +10,7 @@ if (isset($_GET['rid'])) {
     $key = $_GET['key'];
     $as = $_GET['as'];
     $ae = $_GET['ae'];
-    $s = "UPDATE record SET print_status = 'green' WHERE record_isbn = '$rid' AND c_key = '$key'";
-    $q = $connection->query($s);?>
+//    ?>
     <html>
     <head>
         <link rel="stylesheet" type="text/css" href="../semantic/semantic.min.css">
@@ -79,6 +78,10 @@ if (isset($_GET['rid'])) {
                 #print-button {
                     visibility: hidden;
                 }
+
+                #regen {
+                    visibility: hidden;
+                }
             }
         </style>
     </head>
@@ -121,15 +124,35 @@ if (isset($_GET['rid'])) {
         ?>
     </div>
     <button class="ui button blue" style="float: right" type="" id="print-button">Print</button>
+    <form action="regen" method="post">
+
+        <input type="hidden" name="isbn" value="<?php echo $rid ?>">
+        <input type="hidden" name="as" value="<?php echo $as ?>">
+        <input type="hidden" name="ae" value="<?php echo $ae ?>">
+        <input type="hidden" name="class" value="<?php echo $class ?>">
+        <input type="hidden" name="key" value="<?php echo $key ?>">
+
+        <button class="ui button blue" style="float: right" id="regen" type="submit">Regenerate
+            Barcodes
+        </button>
+    </form>
     </body>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
     <script type="text/javascript" src="../libs/main.js"></script>
 
 
     <script>
-        $('#print-button').on("click", function () {
+        function doPrint() {
+            var val = "<?php echo $key ?>";
+            window.location = "printed?key=" + val;
             window.print();
-        });
+        }
+
+        $('#print-button').on("click", function () {
+                doPrint();
+            }
+        )
+        ;
     </script>
     </html>
 <?php } else {

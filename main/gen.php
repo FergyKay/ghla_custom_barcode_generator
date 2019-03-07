@@ -25,7 +25,7 @@ if (!isset($_SESSION['user'])) {
         $stmet = "INSERT INTO accession_control (accession_last_value) VALUES ('$la')";
 
         if ($result = $connection->query($stmet) == true) {
-            header("Location: index");
+            header("Location: index?success");
         };
 
     } catch (\Picqer\Barcode\Exceptions\BarcodeException $e) {
