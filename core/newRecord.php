@@ -8,6 +8,8 @@ if (isset($_POST['add'])) {
     $recordCount = $_POST['quantity'];
     $recordIsbn = $_POST['isbn'];
     $recordClass = $_POST['class'];
+    $recordClass = htmlspecialchars($recordClass, ENT_QUOTES);
+
     $user_id = $_SESSION['uid'];
     $key = time();
     $key = hash('sha1', $key);

@@ -11,8 +11,8 @@ if (isset($_POST['login'])) {
 
         $query = $connection->prepare('select pword from user where uname like ?');
         $query->bind_param('s', $username);
-
         $query->execute();
+
         $query = $query->get_result();
         $result = $query->fetch_assoc();
         $hash = $result['pword'];
