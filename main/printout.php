@@ -125,7 +125,6 @@ if (isset($_GET['rid'])) {
     </div>
     <button class="ui button blue" style="float: right" type="" id="print-button">Print</button>
     <form action="regen" method="post">
-
         <input type="hidden" name="isbn" value="<?php echo $rid ?>">
         <input type="hidden" name="as" value="<?php echo $as ?>">
         <input type="hidden" name="ae" value="<?php echo $ae ?>">

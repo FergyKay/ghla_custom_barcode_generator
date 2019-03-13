@@ -101,7 +101,15 @@ $value = $results[0];
                 <div class="eight wide column">
                     <h3 style="color: white">Total records: <?php echo $value ?></h3>
                 </div>
-                <div class="eight wide column" style="text-align: right">
+                <div class="four wide column" style="text-align: right">
+                    <div class="ui search">
+                        <div class="ui icon input">
+                            <input class="prompt" type="text" id="search-string_" placeholder="Search for record by Title"
+                                   onkeyup="myFunction_()">
+                        </div>
+                    </div>
+                </div>
+                <div class="four wide column" style="text-align: right">
                     <div class="ui search">
                         <div class="ui icon input">
                             <input class="prompt" type="text" id="search-string" placeholder="Search for record by ISBN"
@@ -216,6 +224,28 @@ $value = $results[0];
         // Loop through all table rows, and hide those who don't match the search query
         for (i = 0; i < tr.length; i++) {
             td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+                txtValue = td.textContent || td.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+        }
+    }
+
+    function myFunction_() {
+        // Declare variables
+        var input, filter, table, tr, td, i, txtValue;
+        input = document.getElementById("search-string_");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("data-table");
+        tr = table.getElementsByTagName("tr");
+
+        // Loop through all table rows, and hide those who don't match the search query
+        for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[1];
             if (td) {
                 txtValue = td.textContent || td.innerText;
                 if (txtValue.toUpperCase().indexOf(filter) > -1) {

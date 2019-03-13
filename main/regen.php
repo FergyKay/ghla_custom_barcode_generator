@@ -14,18 +14,20 @@ if (!isset($_SESSION['user'])) {
     $key = $_POST['key'];
     $x = $ac_start;
     $count = $ac_stop - $ac_start + 1;
-
-    $q = "SELECT sum(accession_stop - accession_start) FROM acession WHERE timestamp < (SELECT timestamp FROM acession WHERE c_key LIKE 'afbc87ce7ce34b98ff36a767dc641d326c578fbd') AND record_isbn like '9780007494682'";
+    $last_c = 0;
+    $q = "SELECT SUM(quantity) FROM record WHERE timestamp < (SELECT timestamp FROM record where record_isbn LIKE '$id' and c_key LIKE '$key') AND record_isbn like '$id' ";
     $r = $connection->query($q);
     $last_c = $r->fetch_array()[0];
 
-    //  echo $last_c;
+    $last_c = $last_c + 1;
 
     $i = 1;
     try {
         while ($i <= $count) {
-            file_put_contents("../barcodes/$id@$x-$i.png", $generator->getBarcode($x, $generator::TYPE_EAN_13, 2, 100));
+            file_put_contents("../barcodes/$id@$x-$last_c.png", $generator->getBarcode($x, $generator::TYPE_EAN_13, 2, 100));
             $x = $x + 1;
+
+            $last_c++;
             $i++;
         }
         header("Location: printout?rid=" . $id . "&as=" . $ac_start . "&ae=" . $ac_stop . "&c=" . $class . "&key=" . $key . "");

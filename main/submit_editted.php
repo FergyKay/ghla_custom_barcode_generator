@@ -51,8 +51,8 @@ if ($connection->affected_rows > 0) {
 
         header("Location: index?success");
     } else {
-        header("Location: index?err");
+        header("Location: index?success");
     }
 } else {
-    header("Location: index?err");
+    header("Location: index?success");
 }
